@@ -1,4 +1,7 @@
-<h1>Title(파이썬 Print 사용법)</h1>
+<h1>Python_Learning_Log</h1>
+파이썬 공부 내용에 관한 기록일지 입니다.
+
+<h3>Chapter1_파이썬 Print 사용법</h3>
 
 *[1.Separator사용](#Chapter-1)
 

@@ -1,5 +1,4 @@
-#파이썬 Print 사용법
-<h1>Title(Product name)</h1>
+<h1>Title(파이썬 Print 사용법)</h1>
 
 *[1.Separator사용](#Chapter-1)
 

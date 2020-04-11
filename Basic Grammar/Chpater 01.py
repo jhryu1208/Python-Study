@@ -1,4 +1,4 @@
-# Chapter01_1
+# Chapter01
 # 파이썬 기초
 # print 사용법
 

@@ -64,3 +64,83 @@ print(t_s2)
 ## 드라이브의 경로를 표시할때 자주 사용한다.
 raw_s1 = r'D:\python\test'
 print(raw_s1)
+
+# [멀티라인 입력]
+multi_str1="""
+String
+Multi line
+Test
+"""
+print(multi_str1)
+
+## 또는 \를 이용해서 아래와 같이 깔끔하게 쓸수있다.
+multi_str2 = \
+"""
+String
+Multi line
+Test
+"""
+
+print(multi_str2)
+
+print()
+
+
+# [문자열 연산]
+str_o1="Python"
+str_o2="Apple"
+str_o3="How are you doing"
+str_o4="Seoul Deajeon Busan Jinju"
+
+## 문자열이 3번 반복되서 출력된다
+print(str_o1*3)
+## 서로 다른 문자열이 이어져 출력된다.
+print(str_o1+str_o2)
+## y라는 문자열이 str_o1에 있니?, 있으면 True, 없으면 False
+print('y' in str_o1)
+print('n' in str_o1)
+## P라는 문자열이 str_o2에 있니?, 없으면  True, 있으면 False
+print('P' not in str_o2)
+
+print()
+
+
+# [문자열 형 변환]
+## str()을 이용하여 정수형,bool형 데이터를 문자열 데이터로 형변환 하였다.
+print(str(66),type(str(66)))
+print(str(10.1),type(str(10.1)))
+print(str(True),type(str(True)))
+
+print()
+
+
+# [문자열 함수]
+## 대부분의 문자열관련 함수들은 구글링해서 나오므로, 필요시 즉각 찾으면된다.
+## capitalize()함수는 첫번쨰 단어의 앞글자를 대문자로 바꿔준다.
+print("Capitalize : ", str_o1.capitalize())
+
+## endswith()함수는 마지막 문자가 무엇인지 체크할떄 사용한다.
+## 마지막에 해당하면 True, 아니면 False
+print("endswith : ", str_o2.endswith("s"))
+print("endswith : ", str_o2.endswith("e"))
+
+## replace("x","y")는 글자에서 x에 해당하는 문자를 y로 바꿔준다.
+## (띄어쓰기 포함)
+print("replace : ",str_o1.replace("thon"," Good"))
+
+## sorted()함수는 문자열을 입력받아서 기준에 맞게 정렬해서 리스트형태로 반환한다.
+print("sorted : ",sorted(str_o1))
+
+## split()함수는 문자열을 단어 단위 또는 문장 단위 기준으로 분리할떄 사용.
+print("split : ", str_o4.split(' '))
+
+# [반복(시퀀스)]
+im_str = "Good Boy!"
+
+## '__iter__' 라는 class가 im_str안에서 dir을통해 검색됨
+## 이때 '__iter__'가 반복이 가능하다는 의미이다.
+print(dir(im_str))
+
+## 반복
+for i in im_str:
+    print(i)

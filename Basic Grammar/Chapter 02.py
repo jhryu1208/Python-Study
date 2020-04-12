@@ -110,5 +110,5 @@ _AGE_ = 8
 ## assert	finally	nonlocal	yield
 ## break	for	not
 ## class	from	or
-## continue	global	pass	
+## continue	global	pass
 ## ===================================

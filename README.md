@@ -7,8 +7,8 @@
 <h3>[Python_Chapter2] 변수</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2002.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2002.py
 
-<h3>[Python_Chpater3-1] 숫자형</h3>
+<h3>[Python_Chapter3-1] 숫자형</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_1.py
 
-<h3>[Python_Chater3-2] 문자형</h3>
+<h3>[Python_Chapter3-2] 문자형</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_2.py

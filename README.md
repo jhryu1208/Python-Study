@@ -15,3 +15,9 @@
 
 <h3>[Python_Chapter3-3] 리스트</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_3.py
+
+<h3>[Python_Chapter3-4] 튜플</h3>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_4.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_4.py
+
+<h3>[Python_Chapter3-5] 딕셔너리</h3>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_5.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_5.py

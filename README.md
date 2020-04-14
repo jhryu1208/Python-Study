@@ -21,3 +21,6 @@
 
 <h3>[Python_Chapter3-5] 딕셔너리</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_5.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_5.py
+
+<h3>[Python_Chapter3-6] 집합</h3>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_6.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_6.py

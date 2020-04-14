@@ -12,3 +12,6 @@
 
 <h3>[Python_Chapter3-2] 문자형</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_2.py
+
+<h3>[Python_Chapter3-3] 리스트</h3>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_3.py

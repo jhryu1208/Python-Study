@@ -25,3 +25,7 @@
 
 <h4>6. Set</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_6.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2003_6.py
+
+<h3>[Chapter4] 흐름제어</h3>
+<h4>1. if문</h4>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_1.py

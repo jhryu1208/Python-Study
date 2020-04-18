@@ -131,7 +131,7 @@ for i in range(2,10):
 
 # [변환 예제]
 name2 = 'Aceman'
-print('Reversed', reversed(name2))      ## reversed object at 0x000002397DFA7908
+print('Reversed', reversed(name2))      ## reversed object at 0x000002397DFA7908, 객체의 주소값이 표기된다.
 print('List', list(reversed(name2)))    ## List ['n', 'a', 'm', 'e', 'c', 'A']
 print('Tuple', tuple(reversed(name2)))  ## Tuple ('n', 'a', 'm', 'e', 'c', 'A')
-print('set', set(reversed(name2)))
+print('set', set(reversed(name2)))      ## set {'n', 'a', 'A', 'm', 'c', 'e'}, 순서 x, 실행할때마다 위치가 무작위로 바뀐다.

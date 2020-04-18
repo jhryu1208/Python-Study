@@ -2,7 +2,7 @@
 파이썬 공부 내용에 관한 링크 기록일지입니다.
 
 <h3>[Chapter1] Print 사용법</h3>
-<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chpater%2001.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chpater%2001.py
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2001.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2001.py
 
 <h3>[Chapter2] 변수</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2002.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2002.py
@@ -29,3 +29,6 @@
 <h3>[Chapter4] 흐름제어</h3>
 <h4>1. if문</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_1.py
+
+<h4>2. for문</h4>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_2.py

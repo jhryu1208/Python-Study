@@ -32,3 +32,6 @@
 
 <h4>2. for문</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_2.py
+
+<h4>3. while문</h4>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py

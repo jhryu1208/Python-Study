@@ -36,5 +36,5 @@
 <h4>3. while문</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py
 
-<h4>4. function</h4>
+<h3>[Chapter5] 함수(function)</h3>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_1.py

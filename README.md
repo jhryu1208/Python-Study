@@ -36,7 +36,11 @@
 <h4>3. while문</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2004_3.py
 
-<h3>[Chapter5] 함수(function)</h3>
+<h3>[Chapter5] 파이썬 함수 및 입력</h3>
+<h4>1. function</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_1.py
 
-<h3>[Chapter6] 입력</h3>
+<h4>2. input</h4>
+<a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_2.py
+
+<h3>[Chapter6] Class</h3>

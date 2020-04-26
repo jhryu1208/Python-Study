@@ -43,4 +43,12 @@
 <h4>2. input</h4>
 <a href = "https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2005_2.py
 
-<h3>[Chapter6] Class</h3>
+<h3>[Chapter6] 파이썬 Class 및 Module, Package</h3>
+
+<h4>1. Class</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_1.py
+
+<h4>2. Module</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_2.py
+
+<h4>3. Package</h4>

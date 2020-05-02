@@ -55,3 +55,4 @@
 <a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_3.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2006_3.py
 
 <h3>[Chapter7] 파이썬 예외 처리의 이해</h3>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2007_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2007_1.py

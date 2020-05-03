@@ -56,3 +56,8 @@
 
 <h3>[Chapter7] 파이썬 예외 처리의 이해</h3>
 <a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2007_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2007_1.py
+
+<h3>[Chapter8] 파이썬 내장/외장 함수</h3>
+
+<h4>1. Built-in Function</h4>
+<h4>2. External Function</h4>

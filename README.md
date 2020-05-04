@@ -60,4 +60,7 @@
 <h3>[Chapter8] 파이썬 내장/외장 함수</h3>
 
 <h4>1. Built-in Function</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_1.py
+
 <h4>2. External Function</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_2.py

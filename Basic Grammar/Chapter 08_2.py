@@ -13,7 +13,7 @@ print(sys.argv)
 # [예제3, 파이썬 패키지 위치]
 print(sys.path)
 
-# [pickle : 객체 파일 읽기, 쓰기]
+# [(중요) pickle : 객체 파일 읽기, 쓰기]
 import pickle
 
 # [예제4, 쓰기]
@@ -59,7 +59,7 @@ print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))      ## 2
 # [예제12, 시간 간격 발생]
 for i in range(5):
     print(i)
-    # time.sleep(1)       ## sleep(x) 의 x는 초(sec)가 들어간다. 1초간격으로 쉬면서, for구문이 실행되는 것을 확인 할 수 있다.
+    time.sleep(1)       ## sleep(x) 의 x는 초(sec)가 들어간다. 1초간격으로 쉬면서, for구문이 실행되는 것을 확인 할 수 있다.
 
 # [random : 난수 리턴]
 import random

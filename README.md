@@ -64,3 +64,11 @@
 
 <h4>2. External Function</h4>
 <a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2008_2.py
+
+<h3>[Chapter9] 파이썬 파일 쓰기</h3>
+
+<h4>1. 파일 읽기 및 쓰기</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_1.py
+
+<h4>2. CSV 파일 읽기 및 쓰기</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_2.py

@@ -72,3 +72,11 @@
 
 <h4>2. CSV 파일 읽기 및 쓰기</h4>
 <a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2009_2.py
+
+<h3>[Chapter10] 실전 프로젝트</h3>
+
+<h4>1. Project1</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2010_1.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2010_1.py
+
+<h4>2. Project2</h4>
+<a href ="https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2010_2.py">https://github.com/jhryu1208/Python-Study/blob/master/Basic%20Grammar/Chapter%2010_2.py
